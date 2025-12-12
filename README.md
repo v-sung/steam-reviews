@@ -18,6 +18,9 @@ Given that the class is on big data analysis, the project required... big data a
 - References
 - Generative AI Disclosure
 
+## CONTRIBUTORS
+Lucien W, [Chaitali D](https://github.com/cadeshmukh02), Rhea D, and Tina Z were part of this group project.
+
 ## WHAT WE DID
 We used a [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset) and a [Steam Reviews Dataset](https://www.kaggle.com/datasets/kieranpoc/steam-reviews). Big shout out to the dataset uploaders for the hard work of scraping data so we didn't have to do it. :stuck_out_tongue_winking_eye:
 
